@@ -9,9 +9,9 @@
 > - [x] The Second Homework
 : Completed
 > - [ ] The Third Homework
-: [Exercise_03:All levels]( )
+: [Exercise_03 : All levels]( )
 > - [ ] The Forth Homework
-: [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]( )
+: [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles]( )
 > - [ ] The Fifth Homework
 : [Exercise_05:Chapter 1 problem 1.6:Population growth]( )
 > - [ ] The Sixth Homework
