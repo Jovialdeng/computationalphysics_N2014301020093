@@ -7,7 +7,7 @@
 > - [x] The First Homework
 : Completed
 > - [x] The Second Homework
-: Completed
+: [Completed](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/ex2.py)
 > - [ ] The Third Homework
 : [Exercise_03 : All levels]( )
 > - [ ] The Forth Homework
