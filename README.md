@@ -8,8 +8,8 @@
 : Completed
 > - [x] The Second Homework
 : [Completed](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/ex2.py)
-> - [ ] The Third Homework
-: [Exercise_03 : All levels]( )
+> - [x] The Third Homework
+: [Exercise_03 : All levels](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/ex03.py)
 > - [ ] The Forth Homework
 : [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles]( )
 > - [ ] The Fifth Homework
