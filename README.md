@@ -10,8 +10,8 @@
 : [Completed](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/ex2.py)
 > - [x] The Third Homework
 : [Exercise_03 : All levels](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/Exercise_03.md)
-> - [ ] The Forth Homework
-: [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles]( )
+> - [x] The Forth Homework
+: [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles](https://www.zybuluo.com/jovialdeng/note/526024)
 > - [ ] The Fifth Homework
 : [Exercise_05:Chapter 1 problem 1.6:Population growth]( )
 > - [ ] The Sixth Homework
