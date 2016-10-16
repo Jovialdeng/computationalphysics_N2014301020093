@@ -12,8 +12,8 @@
 : [Exercise_03 : All levels](https://github.com/Jovialdeng/computationalphysics_N2014301020093/blob/master/Exercise_03.md)
 > - [x] The Forth Homework
 : [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles](https://www.zybuluo.com/jovialdeng/note/526024)
-> - [ ] The Fifth Homework
-: [Exercise_05:Chapter 1 problem 1.6:Population growth]( )
+> - [x] The Fifth Homework
+: [Exercise_05:Chapter 2 problem 2.9 : The Trajectory of a Cannon Shell](https://www.zybuluo.com/jovialdeng/note/534180)
 > - [ ] The Sixth Homework
 : [Exercise_06:Chapter 2 problem 2.9&2.10:The cannon]( )
 > - [ ] The Seventh Homework
