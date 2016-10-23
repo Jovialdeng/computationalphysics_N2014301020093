@@ -14,8 +14,8 @@
 : [Exercise_04 : Chapter 1 problem 1.5 : The decay of two kinds of particles](https://www.zybuluo.com/jovialdeng/note/526024)
 > - [x] The Fifth Homework
 : [Exercise_05:Chapter 2 problem 2.9 : The Trajectory of a Cannon Shell](https://www.zybuluo.com/jovialdeng/note/534180)
-> - [ ] The Sixth Homework
-: [Exercise_06:Chapter 2 problem 2.9&2.10:The cannon]( )
+> - [x] The Sixth Homework
+: [Exercise_06:Chapter 2 problem 2.10:The cannon](https://www.zybuluo.com/jovialdeng/note/542471)
 > - [ ] The Seventh Homework
 : [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]( )
 > - [ ] The Eighth Homework
