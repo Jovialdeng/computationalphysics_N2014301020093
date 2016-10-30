@@ -16,8 +16,8 @@
 : [Exercise_05:Chapter 2 problem 2.9 : The Trajectory of a Cannon Shell](https://www.zybuluo.com/jovialdeng/note/534180)
 > - [x] The Sixth Homework
 : [Exercise_06:Chapter 2 problem 2.10:The cannon](https://www.zybuluo.com/jovialdeng/note/542471)
-> - [ ] The Seventh Homework
-: [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]( )
+> - [x] The Seventh Homework
+: [Exercise_07:](https://www.zybuluo.com/jovialdeng/note/550426)
 > - [ ] The Eighth Homework
 : [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]( )
 > - [ ] The Ninth Homework
