@@ -18,8 +18,8 @@
 : [Exercise_06:Chapter 2 problem 2.10:The cannon](https://www.zybuluo.com/jovialdeng/note/542471)
 > - [x] The Seventh Homework
 : [Exercise_07:](https://www.zybuluo.com/jovialdeng/note/550426)
-> - [ ] The Eighth Homework
-: [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]( )
+> - [x] The Eighth Homework
+: [Exercise_08:Chapter 3 problem 3.18](https://www.zybuluo.com/jovialdeng/note/565962)
 > - [ ] The Ninth Homework
 : [Exercise_09:Chapter 3 problem 3.16:Strange attractor]( )
 > - [ ] The Tenth Homework
