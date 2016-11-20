@@ -20,8 +20,8 @@
 : [Exercise_07:](https://www.zybuluo.com/jovialdeng/note/550426)
 > - [x] The Eighth Homework
 : [Exercise_08:Chapter 3 problem 3.18](https://www.zybuluo.com/jovialdeng/note/565962)
-> - [ ] The Ninth Homework
-: [Exercise_09:Chapter 3 problem 3.31:Billiard ball on diverse table]( )
+> - [x] The Ninth Homework
+: [Exercise_09:Chapter 3 problem 3.31:Billiard ball on diverse table](https://www.zybuluo.com/jovialdeng/note/573758)
 > - [ ] The Tenth Homework
 : [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]( )
 > - [ ] The Eleventh Homework
