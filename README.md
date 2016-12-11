@@ -26,8 +26,8 @@
 : [Exercise_10](https://www.zybuluo.com/jovialdeng/note/581830)
 > - [x] The Eleventh Homework
 : [Exercise_11:Chapter 4 problem 4.19](https://www.zybuluo.com/jovialdeng/note/590014)
-> - [ ] The Twelfth Homework
-: [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]( )
+> - [x] The Twelfth Homework
+: [Exercise_12:Chapter 5 problem 5.3](https://www.zybuluo.com/jovialdeng/note/597870)
 > - [ ] The Thirteenth Homework
 : [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. TheSOR algorithm]( )
 > - [ ] The Forteenth Homework
