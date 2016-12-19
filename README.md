@@ -28,8 +28,8 @@
 : [Exercise_11:Chapter 4 problem 4.19](https://www.zybuluo.com/jovialdeng/note/590014)
 > - [x] The Twelfth Homework
 : [Exercise_12:Chapter 5 problem 5.3](https://www.zybuluo.com/jovialdeng/note/597870)
-> - [ ] The Thirteenth Homework
-: [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. TheSOR algorithm]( )
+> - [x] The Thirteenth Homework
+: [Exercise_13:Chapter 6 problem 6.12](https://www.zybuluo.com/jovialdeng/note/605137)
 > - [ ] The Forteenth Homework
 : [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]( )
 > - [ ] #The Final Project
