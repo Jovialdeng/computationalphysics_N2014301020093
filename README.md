@@ -32,9 +32,6 @@
 : [Exercise_13:Chapter 6 problem 6.12](https://www.zybuluo.com/jovialdeng/note/605137)
 > - [ ] The Forteenth Homework
 : [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]( )
-> - [ ] #The Final Project
-: [Final Project: 用轨道能量分析Kirkwood Gap的缝宽]( )
+> - [x] #The Final Project
+: [Final Project](https://www.zybuluo.com/jovialdeng/note/626158)
  
-
-
-
